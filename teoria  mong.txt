@@ -1,0 +1,41 @@
+CASOS DE USO DE MONGO DB
+
+	- Aplicaciones web en tiempo real: chats, redes sociales.
+	- Gestión de contenidos
+	- Big Data 
+	- IoT(Intenet de las Cosas)
+	- Sistemas Geoespaciales
+
+Conceptos
+
+Base de Datos:
+	- Contenedor de colecciones
+
+Colecciones:
+	- Conjunto de documentos
+
+Documentos:
+	- Registro de datos en formato JSON.
+
+índices:
+	- Mejoran la velocidad de las operaciones de consultas.
+
+
+Operaciones CRUD:
+	- Create
+	- Read
+	- Update
+	- Delete
+
+
+======================================
+- crea una bd clinica
+
+crear una coleccion de un solo documento
+
+
+
+- crea una bd colegio
+
+
+crear una colección de múltiples documentos
